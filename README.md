@@ -2,4 +2,4 @@
 ## about music 
 *This site is dedicated to Leps*
 ###
- About: my name is Leps
+ _About: my name is Leps_
